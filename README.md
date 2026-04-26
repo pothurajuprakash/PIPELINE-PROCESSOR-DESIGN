@@ -35,6 +35,5 @@ One important observation from the simulation is the **pipeline latency**. The f
 Overall, this design successfully demonstrates the core principles of pipelined processor architecture in VLSI, including concurrency, stage-wise execution, and improved throughput. The simulation results validate the correctness of the design and highlight the benefits of pipelining in modern processor architectures.
 
 OUTPUT:
-
-
+<img width="1536" height="1024" alt="Image" src="https://github.com/user-attachments/assets/db7f8ff2-92db-4076-b6db-22d2012442c1" />
 
